@@ -3,7 +3,7 @@ Calculator using Constraint Layout
 
 ----
 
- <img src="https://drive.google.com/uc?export=view&id=10cNXyx-j4qjaS6bl2xlsgl6H6yL8adWw">
+ <img src="https://drive.google.com/uc?export=view&id=1MSSkOKb32OWVz0kMnoH3mJzoaRrmwcqL">
 
 ----
 
